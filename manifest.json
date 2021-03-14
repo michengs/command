@@ -5,16 +5,5 @@
         "index.js": "22d4d27e61fb33f91e1415935ee5ef46a78fdfb7e2d07f2958278339a24dca95",
         "module.json": "15c2ce5c77ee899042634beb7ab29c38a93e0520d2ba8b81d9333a9f0b593c02",
         "settings_migrator.js": "e6ebb38da75e27104092bb4b9a7e4159bc03d886b7d461cd83b20d77be23c21b"
-    },
-    "defs": {
-        "C_CHAT": 1,
-        "C_LEAVE_PRIVATE_CHANNEL": 1,
-        "C_REQUEST_PRIVATE_CHANNEL_INFO": 2,
-        "C_WHISPER": 1,
-        "S_JOIN_PRIVATE_CHANNEL": 2,
-        "S_LOAD_CLIENT_USER_SETTING": "event",
-        "S_LOGIN": "event",
-        "S_PRIVATE_CHAT": 1,
-        "S_REQUEST_PRIVATE_CHANNEL_INFO": 2
     }
 }
